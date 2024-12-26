@@ -92,4 +92,4 @@ View user screen.
 
 Online Stealer.
 ![one](https://files.catbox.moe/kamacn.png) 
-![two]([https://files.catbox.moe/kamacn.png](https://files.catbox.moe/3rxsqs.png)) 
+![two](https://files.catbox.moe/3rxsqs.png) 
