@@ -1,92 +1,54 @@
 __Bot / Bot (EXE/DLL/MSI)__
+-----------------------------------------------------------------------------------------------
+__FEATURES:__
+
+->Stealer (FF,OP,CH,IE,EG).
+
+->Post Grabber (EG,FF,OP,CH,IE)
+
+->HTML injects with extended Zeus format.   
+
+->HVNC - Hidden Desktop.
+
+->Video recording, processes, websites.
+
+->Keylogger.
+
+->Clipboard Interception.
+
+->Web request redirects.
+
+->Blocking web requests.
+
+->Notification system in Jabber for events, sites, processes, automatic activation of the HVNC function.
+
+->Offline file handling system (wallet grabber).
+
+->Screen viewing, cmd, process management.
+
+->Restoring information about proxy servers via TOR.
 
  
 
-Stealer (FF,OP,CH,IE,EG).
-
-Post Grabber (EG,FF,OP,CH,IE)
-
-HTML injects with extended Zeus format.   
-
-HVNC - Hidden Desktop.
-
-Video recording, processes, websites.
-
-Keylogger.
-
-Clipboard Interception.
-
-Web request redirects.
-
-Blocking web requests.
-
-Notification system in Jabber for events, sites, processes, automatic activation of the HVNC function.
-
-Offline file handling system (wallet grabber).
-
-Screen viewing, cmd, process management.
-
-Restoring information about proxy servers via TOR.
 
  
 
-Stealer (FF,OP,CH,IE,EG).
-
-Post grabber (EG,FF,OP,CH,IE)
-
-HTML injections with extended Zeus format including internal variables and bot information.
-
-HVNC is a hidden desktop.
-
-Video recording, processes, sites.
-
-Keyboard spy.
-
-Interception of the Clipboard.
-
-Redirects of web requests.
-
-Blocking web requests.
-
-Jabber notification system for events, sites, processes, automatic activation of the HVNC function.
-
-Offline file management system. (wallet grabber).
-
-Screen view, cmd, process management.
-
-Restoring information about proxy servers via TOR.
+__Server / Server:__
 
  
 
-Server / Server
+->Build generation system.
 
- 
+->Autocrypt. (NO/FUD)
 
-Build generation system.
+->Proxy chain building system (+Tor) autocheck. Proxy software.
 
-Autocrypt. (NO/FUD)
+->API system for connecting your cryptors, databases.
 
-Proxy chain building system (+Tor) autocheck. Proxy software.
+->Built-in Firewall.
 
-API system for connecting your cryptors, databases.
 
-Built-in Firewall.
-
- 
-
-Build generation system.
-
-Autocrypt. (NO/FUD)
-
-The system of building a proxy chain (+Tor) auto-check. Software for design.
-
-API system for connecting your cryptors, databases.
-
-Built-in Firewall.
-
- 
-
-Client program for management / Client   
+__Client program for management / Client:__   
 
  
 
@@ -104,21 +66,11 @@ Log reading mode without the ability to manage the system (for employees).
 
  
 
-A panel for working with data in the form of an exe application for windows.
 
-The ability to manage bots in offline mode.
-
-The bot's impression export system (Browser, cookies, saved passwords, operating system version).
-
-Fast and convenient processing of a large amount of data, data parser.
-
-Multi-format Data export.
-
-Log reading mode without the ability to manage the system (for employees).
 
  
 
-Server for working with the bot directly / Online Server
+__Server for working with the bot directly / Online Server:__
 
  
 
@@ -139,23 +91,3 @@ HVNC Hidden Desktop.
 View user screen.
 
 Online Stiller.
-
- 
-
-A panel for working in online mode in the form of an exe application for windows.
-
-Socks5 server support. (+API)
-
-Port forwarding.
-
-Information about processes.
-
-Remote command prompt.
-
-Remote work with files, network resources.
-
-HVNC is a hidden desktop.
-
-Viewing the user's screen.
-
-Online Stealer.
